@@ -73,6 +73,7 @@ nav {
     width: 800px;
     display: flex;
     justify-content: space-between;
+    align-items: baseline;
 }
 
 nav a {
@@ -242,8 +243,9 @@ footer nav {
     width: 60%;
     display: flex;
     justify-content: space-between;
-    align-items: center;
+    align-items: left;
     padding: 20px 2%;
+    padding-right: 200px;
     font-size: 14px;
 }
 
