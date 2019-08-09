@@ -80,12 +80,45 @@ nav a {
     color: black;
 }
 
+.pic{
+    width: 800px;
+    margin: auto;
+}
 
 .container {
     width: 800px;
     margin: 0 auto;
 }
 
+.about{
+    width: 100%;
+    margin-top: 30px:
+    margin-bottom:30px; 
+    padding: 30px;
+    border-bottom: 1px dashed black;
+}
+
+.middle_pics{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.content{
+    width: 100%;
+    display: flex;
+    justify-content: space-around;
+}
+.box_content{
+    width: 40%;
+    border-bottom: 1px dashed black;
+    padding-bottom: 15px;
+    margin-bottom: 30px;
+}
+.two_pics{
+    width: 40%;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
 
 .top-content {
     display: flex;
@@ -95,6 +128,13 @@ nav a {
     border-bottom: 1px dashed black;
 }
 
+.bottom_text{
+    width: 100%;
+    margin-bottom: 30px;
+    padding: 30px;
+}
+
+/*
 .top-content .text-container {
     width: 48%;
     padding: 0 1%;
@@ -232,7 +272,7 @@ nav a {
 .bottom-content .text-container:last-child {
     padding-right: 0;
 }
-
+*/
 footer {
     width: 100%;
     background: black;
@@ -250,4 +290,5 @@ footer nav {
 footer nav a {
     color: white;
     text-decoration: none;
+    text-align: left;
 }
