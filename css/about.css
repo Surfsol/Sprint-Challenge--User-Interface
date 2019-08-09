@@ -109,16 +109,25 @@ nav a {
     display: flex;
     justify-content: space-around;
 }
+
 .box_content{
     width: 40%;
     border-bottom: 1px dashed black;
     padding-bottom: 15px;
     margin-bottom: 30px;
 }
+
 .two_pics{
     width: 40%;
     margin-top: 30px;
     margin-bottom: 30px;
+}
+
+button{
+    margin: 10px;
+    padding: 5px; 
+    border-radius: 5px;
+    border: 1px solid black;
 }
 
 .top-content {

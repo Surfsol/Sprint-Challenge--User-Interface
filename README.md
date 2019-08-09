@@ -2,15 +2,16 @@ If you were to describe semantic HTML to the next cohort of students, what would
 Semantic HTML  provides a way for developers to organize and read each others code.
 
 Name two big differences between display: block; and display: inline;.
-display inline :
-you can set  width and height
-respects top and bottom margins and padding
+display inline respects top and bottom margins and padding and elements are displayed in same block on same line.
+
+
+display: block  elements are displayed in a block. Blocks also have whitespace above or below.
 
 What are the 4 areas of the box model?
-Top, Right, Bottom, Left
+margins, borders, padding, and the actual content
 
 While using flexbox, what axis does the following property work on: align-items: center?
-x and y axis
+x axis
 
 Explain why git is valuable to a team of developers.
 Git allows many developers to share, organize and work on the same project simoutaneously.  It is also a great way to back up your files.
