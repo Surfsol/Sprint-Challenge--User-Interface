@@ -1,3 +1,27 @@
+If you were to describe semantic HTML to the next cohort of students, what would you say?
+Semantic HTML  provides a way for developers to organize and read each others code.
+
+Name two big differences between display: block; and display: inline;.
+display inline respects top and bottom margins and padding and elements are displayed in same block on same line.
+
+
+display: block  elements are displayed in a block. Blocks also have whitespace above or below.
+
+What are the 4 areas of the box model?
+margins, borders, padding, and the actual content
+
+While using flexbox, what axis does the following property work on: align-items: center?
+x axis
+
+Explain why git is valuable to a team of developers.
+Git allows many developers to share, organize and work on the same project simoutaneously.  It is also a great way to back up your files.
+
+
+
+
+
+
+
 # Sprint Challenge: User Interface and Git - Multi-Page Website
 
 This challenge allows you to practice the concepts and techniques learned over the past week and apply them in a concrete project. This Sprint explored User Interface and Git. During this Sprint, you studied Semantic HTML, CSS Fundamentals, CSS Flexbox Module, and Git. In your challenge this week, you will demonstrate proficiency by creating a multi page website that has some missing HTML elements as well as CSS specificity problems that need to be solved.  You will also create an additional web page that will be linked to from a navigation you will build.
